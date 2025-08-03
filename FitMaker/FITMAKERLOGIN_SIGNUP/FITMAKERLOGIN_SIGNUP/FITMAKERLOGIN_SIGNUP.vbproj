@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C9DA4AAB-1478-44DB-930E-F4CB6CCE01C6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>FITMAKERLOGIN_SIGNUP.My.MyApplication</StartupObject>
+    <RootNamespace>FITMAKERLOGIN_SIGNUP</RootNamespace>
+    <AssemblyName>FITMAKERLOGIN_SIGNUP</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>FITMAKERLOGIN_SIGNUP.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>FITMAKERLOGIN_SIGNUP.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DocumentationFile>FITMAKERLOGIN_SIGNUP.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DocumentationFile>FITMAKERLOGIN_SIGNUP.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DocumentationFile>FITMAKERLOGIN_SIGNUP.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DocumentationFile>FITMAKERLOGIN_SIGNUP.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.OleDb, Version=9.0.0.6, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.OleDb.9.0.6\lib\net462\System.Data.OleDb.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bookmark.Designer.vb">
+      <DependentUpon>Bookmark.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bookmark.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreditDebitCard.Designer.vb">
+      <DependentUpon>CreditDebitCard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CreditDebitCard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FitMakerShop.Designer.vb">
+      <DependentUpon>FitMakerShop.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FitMakerShop.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginUTP.Designer.vb">
+      <DependentUpon>LoginUTP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LoginUTP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginPublic.Designer.vb">
+      <DependentUpon>LoginPublic.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LoginPublic.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.vb">
+      <DependentUpon>MainForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="NewPassword.Designer.vb">
+      <DependentUpon>NewPassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NewPassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OutfitPairing.Designer.vb">
+      <DependentUpon>OutfitPairing.vb</DependentUpon>
+    </Compile>
+    <Compile Include="OutfitPairing.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PaymentOption.Designer.vb">
+      <DependentUpon>PaymentOption.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PaymentOption.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Profile.Designer.vb">
+      <DependentUpon>Profile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Profile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResetPasswordEmail.Designer.vb">
+      <DependentUpon>ResetPasswordEmail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ResetPasswordEmail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SignUpPublicNew.Designer.vb">
+      <DependentUpon>SignUpPublicNew.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SignUpPublicNew.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SignUpUTP.Designer.vb">
+      <DependentUpon>SignUpUTP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SignUpUTP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StartupPage.Designer.vb">
+      <DependentUpon>StartupPage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StartupPage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TNGeWaller.Designer.vb">
+      <DependentUpon>TNGeWaller.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TNGeWaller.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Wardrobe.Designer.vb">
+      <DependentUpon>Wardrobe.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Wardrobe.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Bookmark.resx">
+      <DependentUpon>Bookmark.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreditDebitCard.resx">
+      <DependentUpon>CreditDebitCard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FitMakerShop.resx">
+      <DependentUpon>FitMakerShop.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginUTP.resx">
+      <DependentUpon>LoginUTP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginPublic.resx">
+      <DependentUpon>LoginPublic.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewPassword.resx">
+      <DependentUpon>NewPassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OutfitPairing.resx">
+      <DependentUpon>OutfitPairing.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaymentOption.resx">
+      <DependentUpon>PaymentOption.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Profile.resx">
+      <DependentUpon>Profile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResetPasswordEmail.resx">
+      <DependentUpon>ResetPasswordEmail.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SignUpPublicNew.resx">
+      <DependentUpon>SignUpPublicNew.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SignUpUTP.resx">
+      <DependentUpon>SignUpUTP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StartupPage.resx">
+      <DependentUpon>StartupPage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TNGeWaller.resx">
+      <DependentUpon>TNGeWaller.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Wardrobe.resx">
+      <DependentUpon>Wardrobe.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="Resources\WhatsApp Image 2025-07-02 at 21.38.23_20a54ebe.jpg" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="Resources\hide.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\show.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2025-07-07 at 23.12.11_b8fe86e7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2025-07-07 at 23.12.11_b8fe86e71.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2025-07-07 at 23.12.27_d88d9cb3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2025-07-07 at 23.13.12_f0696db6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2025-07-07 at 23.12.27_d88d9cb31.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Touch_%27n_Go_eWallet.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1200x630wa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background sign in.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\oversizedt.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\polo1.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\qwd.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\qwd1.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\t2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\t21.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\t3.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\t31.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\tshirt1.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\windbreaker.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\windbreaker1.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\woment.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\woment1.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image for outfits\Dresses\Casual Dress.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image for outfits\Dresses\Cocktail Dress.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image for outfits\Dresses\Formal Dress.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image for outfits\Dresses\Pleated Dress.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image for outfits\Hijab\Bawal Hijab.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image for outfits\Hijab\Shawl Hijab.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image for outfits\Hijab\Slip-On Hijab.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image for outfits\Long Pants\Cargo Pants.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image for outfits\Long Pants\Formal Pants.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image for outfits\Long Pants\Jeans.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image for outfits\Long Pants\Joggers.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image for outfits\Long Pants\Sweat Pants.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image for outfits\Shorts\Board Shorts.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image for outfits\Shorts\Cargo Shorts.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image for outfits\Shorts\Denim shorts.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image for outfits\Shorts\Running Shorts.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image for outfits\Shorts\Sweat Shorts.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image for outfits\Skirt\A-Line Skirt.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image for outfits\Skirt\Maxi Skirt.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image for outfits\Skirt\Mini Skirt.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image for outfits\Skirt\Pencil Skirt.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image for outfits\TopWear\Button Shirt.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image for outfits\TopWear\Hoodie.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image for outfits\TopWear\Jersey.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image for outfits\TopWear\Long Sleeve Shirt.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image for outfits\TopWear\Oversize Shirt.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image for outfits\TopWear\Round Neck Shirt.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\clothes-hanger.png" />
+    <Content Include="Resources\WhatsApp Image 2025-06-12 at 22.57.49_099e0176.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

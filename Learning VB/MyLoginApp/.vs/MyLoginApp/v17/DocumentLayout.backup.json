@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\izzat\\Downloads\\Learning VB\\MyLoginApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6E2D7A-E9CF-47C6-B0E2-677C3AE1E654}|MyLoginApp.vbproj|c:\\users\\izzat\\downloads\\learning vb\\myloginapp\\registerpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{ED6E2D7A-E9CF-47C6-B0E2-677C3AE1E654}|MyLoginApp.vbproj|solutionrelative:registerpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6E2D7A-E9CF-47C6-B0E2-677C3AE1E654}|MyLoginApp.vbproj|c:\\users\\izzat\\downloads\\learning vb\\myloginapp\\registerpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{ED6E2D7A-E9CF-47C6-B0E2-677C3AE1E654}|MyLoginApp.vbproj|solutionrelative:registerpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6E2D7A-E9CF-47C6-B0E2-677C3AE1E654}|MyLoginApp.vbproj|c:\\users\\izzat\\downloads\\learning vb\\myloginapp\\loginpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{ED6E2D7A-E9CF-47C6-B0E2-677C3AE1E654}|MyLoginApp.vbproj|solutionrelative:loginpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6E2D7A-E9CF-47C6-B0E2-677C3AE1E654}|MyLoginApp.vbproj|c:\\users\\izzat\\downloads\\learning vb\\myloginapp\\loginpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{ED6E2D7A-E9CF-47C6-B0E2-677C3AE1E654}|MyLoginApp.vbproj|solutionrelative:loginpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterPage.vb",
+              "DocumentMoniker": "C:\\Users\\izzat\\Downloads\\Learning VB\\MyLoginApp\\RegisterPage.vb",
+              "RelativeDocumentMoniker": "RegisterPage.vb",
+              "ToolTip": "C:\\Users\\izzat\\Downloads\\Learning VB\\MyLoginApp\\RegisterPage.vb",
+              "RelativeToolTip": "RegisterPage.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-14T14:03:23.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginPage.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\izzat\\Downloads\\Learning VB\\MyLoginApp\\LoginPage.vb",
+              "RelativeDocumentMoniker": "LoginPage.vb",
+              "ToolTip": "C:\\Users\\izzat\\Downloads\\Learning VB\\MyLoginApp\\LoginPage.vb [Design]",
+              "RelativeToolTip": "LoginPage.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-14T11:09:05.267Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginPage.vb",
+              "DocumentMoniker": "C:\\Users\\izzat\\Downloads\\Learning VB\\MyLoginApp\\LoginPage.vb",
+              "RelativeDocumentMoniker": "LoginPage.vb",
+              "ToolTip": "C:\\Users\\izzat\\Downloads\\Learning VB\\MyLoginApp\\LoginPage.vb",
+              "RelativeToolTip": "LoginPage.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-14T10:56:16.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterPage.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\izzat\\Downloads\\Learning VB\\MyLoginApp\\RegisterPage.vb",
+              "RelativeDocumentMoniker": "RegisterPage.vb",
+              "ToolTip": "C:\\Users\\izzat\\Downloads\\Learning VB\\MyLoginApp\\RegisterPage.vb [Design]",
+              "RelativeToolTip": "RegisterPage.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-14T11:05:47.983Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\laragon\\www\\FitMaker\\FITMAKERLOGIN_SIGNUP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\izzat\\AppData\\Local\\Temp\\.vsdbgsrc\\b9f2c8f929544febecb3f88166e8b9cfe15492811552899fb7644e008a61c53a\\WindowsFormsApplicationBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DA4AAB-1478-44DB-930E-F4CB6CCE01C6}|FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP.vbproj|c:\\laragon\\www\\fitmaker\\fitmakerlogin_signup\\fitmakerlogin_signup\\profile.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C9DA4AAB-1478-44DB-930E-F4CB6CCE01C6}|FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP.vbproj|solutionrelative:fitmakerlogin_signup\\profile.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DA4AAB-1478-44DB-930E-F4CB6CCE01C6}|FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP.vbproj|c:\\laragon\\www\\fitmaker\\fitmakerlogin_signup\\fitmakerlogin_signup\\fitmakershop.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C9DA4AAB-1478-44DB-930E-F4CB6CCE01C6}|FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP.vbproj|solutionrelative:fitmakerlogin_signup\\fitmakershop.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DA4AAB-1478-44DB-930E-F4CB6CCE01C6}|FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP.vbproj|c:\\laragon\\www\\fitmaker\\fitmakerlogin_signup\\fitmakerlogin_signup\\bookmark.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C9DA4AAB-1478-44DB-930E-F4CB6CCE01C6}|FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP.vbproj|solutionrelative:fitmakerlogin_signup\\bookmark.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DA4AAB-1478-44DB-930E-F4CB6CCE01C6}|FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP.vbproj|c:\\laragon\\www\\fitmaker\\fitmakerlogin_signup\\fitmakerlogin_signup\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C9DA4AAB-1478-44DB-930E-F4CB6CCE01C6}|FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP.vbproj|solutionrelative:fitmakerlogin_signup\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DA4AAB-1478-44DB-930E-F4CB6CCE01C6}|FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP.vbproj|c:\\laragon\\www\\fitmaker\\fitmakerlogin_signup\\fitmakerlogin_signup\\loginutp.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C9DA4AAB-1478-44DB-930E-F4CB6CCE01C6}|FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP.vbproj|solutionrelative:fitmakerlogin_signup\\loginutp.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DA4AAB-1478-44DB-930E-F4CB6CCE01C6}|FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP.vbproj|C:\\laragon\\www\\FitMaker\\FITMAKERLOGIN_SIGNUP\\fitmakerlogin_signup\\loginpublic.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C9DA4AAB-1478-44DB-930E-F4CB6CCE01C6}|FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP.vbproj|solutionrelative:fitmakerlogin_signup\\loginpublic.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DA4AAB-1478-44DB-930E-F4CB6CCE01C6}|FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP.vbproj|c:\\laragon\\www\\fitmaker\\fitmakerlogin_signup\\fitmakerlogin_signup\\wardrobe.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C9DA4AAB-1478-44DB-930E-F4CB6CCE01C6}|FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP.vbproj|solutionrelative:fitmakerlogin_signup\\wardrobe.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DA4AAB-1478-44DB-930E-F4CB6CCE01C6}|FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP.vbproj|C:\\laragon\\www\\FitMaker\\FITMAKERLOGIN_SIGNUP\\fitmakerlogin_signup\\loginutp.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C9DA4AAB-1478-44DB-930E-F4CB6CCE01C6}|FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP.vbproj|solutionrelative:fitmakerlogin_signup\\loginutp.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DA4AAB-1478-44DB-930E-F4CB6CCE01C6}|FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP.vbproj|C:\\laragon\\www\\FitMaker\\FITMAKERLOGIN_SIGNUP\\fitmakerlogin_signup\\creditdebitcard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C9DA4AAB-1478-44DB-930E-F4CB6CCE01C6}|FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP.vbproj|solutionrelative:fitmakerlogin_signup\\creditdebitcard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DA4AAB-1478-44DB-930E-F4CB6CCE01C6}|FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP.vbproj|C:\\laragon\\www\\FitMaker\\FITMAKERLOGIN_SIGNUP\\fitmakerlogin_signup\\tngewaller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C9DA4AAB-1478-44DB-930E-F4CB6CCE01C6}|FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP.vbproj|solutionrelative:fitmakerlogin_signup\\tngewaller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DA4AAB-1478-44DB-930E-F4CB6CCE01C6}|FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP.vbproj|C:\\laragon\\www\\FitMaker\\FITMAKERLOGIN_SIGNUP\\fitmakerlogin_signup\\newpassword.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C9DA4AAB-1478-44DB-930E-F4CB6CCE01C6}|FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP.vbproj|solutionrelative:fitmakerlogin_signup\\newpassword.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DA4AAB-1478-44DB-930E-F4CB6CCE01C6}|FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP.vbproj|C:\\laragon\\www\\FitMaker\\FITMAKERLOGIN_SIGNUP\\fitmakerlogin_signup\\signuputp.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C9DA4AAB-1478-44DB-930E-F4CB6CCE01C6}|FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP.vbproj|solutionrelative:fitmakerlogin_signup\\signuputp.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DA4AAB-1478-44DB-930E-F4CB6CCE01C6}|FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP.vbproj|C:\\laragon\\www\\FitMaker\\FITMAKERLOGIN_SIGNUP\\fitmakerlogin_signup\\resetpasswordemail.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C9DA4AAB-1478-44DB-930E-F4CB6CCE01C6}|FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP.vbproj|solutionrelative:fitmakerlogin_signup\\resetpasswordemail.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DA4AAB-1478-44DB-930E-F4CB6CCE01C6}|FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP.vbproj|C:\\laragon\\www\\FitMaker\\FITMAKERLOGIN_SIGNUP\\fitmakerlogin_signup\\startuppage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C9DA4AAB-1478-44DB-930E-F4CB6CCE01C6}|FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP.vbproj|solutionrelative:fitmakerlogin_signup\\startuppage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DA4AAB-1478-44DB-930E-F4CB6CCE01C6}|FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP.vbproj|C:\\laragon\\www\\FitMaker\\FITMAKERLOGIN_SIGNUP\\fitmakerlogin_signup\\signuppublicnew.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C9DA4AAB-1478-44DB-930E-F4CB6CCE01C6}|FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP.vbproj|solutionrelative:fitmakerlogin_signup\\signuppublicnew.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DA4AAB-1478-44DB-930E-F4CB6CCE01C6}|FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP.vbproj|C:\\laragon\\www\\FitMaker\\FITMAKERLOGIN_SIGNUP\\fitmakerlogin_signup\\paymentoption.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C9DA4AAB-1478-44DB-930E-F4CB6CCE01C6}|FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP.vbproj|solutionrelative:fitmakerlogin_signup\\paymentoption.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Profile.vb [Design]",
+              "DocumentMoniker": "C:\\laragon\\www\\FitMaker\\FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP\\Profile.vb",
+              "RelativeDocumentMoniker": "FITMAKERLOGIN_SIGNUP\\Profile.vb",
+              "ToolTip": "C:\\laragon\\www\\FitMaker\\FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP\\Profile.vb [Design]",
+              "RelativeToolTip": "FITMAKERLOGIN_SIGNUP\\Profile.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-16T13:49:08.474Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bookmark.vb [Design]",
+              "DocumentMoniker": "C:\\laragon\\www\\FitMaker\\FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP\\Bookmark.vb",
+              "RelativeDocumentMoniker": "FITMAKERLOGIN_SIGNUP\\Bookmark.vb",
+              "ToolTip": "C:\\laragon\\www\\FitMaker\\FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP\\Bookmark.vb [Design]",
+              "RelativeToolTip": "FITMAKERLOGIN_SIGNUP\\Bookmark.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-16T13:49:05.434Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginUTP.vb [Design]",
+              "DocumentMoniker": "C:\\laragon\\www\\FitMaker\\FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP\\LoginUTP.vb",
+              "RelativeDocumentMoniker": "FITMAKERLOGIN_SIGNUP\\LoginUTP.vb",
+              "ToolTip": "C:\\laragon\\www\\FitMaker\\FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP\\LoginUTP.vb [Design]",
+              "RelativeToolTip": "FITMAKERLOGIN_SIGNUP\\LoginUTP.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-16T13:46:43.944Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WindowsFormsApplicationBase.cs",
+              "DocumentMoniker": "C:\\Users\\izzat\\AppData\\Local\\Temp\\.vsdbgsrc\\b9f2c8f929544febecb3f88166e8b9cfe15492811552899fb7644e008a61c53a\\WindowsFormsApplicationBase.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\izzat\\AppData\\Local\\Temp\\.vsdbgsrc\\b9f2c8f929544febecb3f88166e8b9cfe15492811552899fb7644e008a61c53a\\WindowsFormsApplicationBase.cs",
+              "ToolTip": "C:\\Users\\izzat\\AppData\\Local\\Temp\\.vsdbgsrc\\b9f2c8f929544febecb3f88166e8b9cfe15492811552899fb7644e008a61c53a\\WindowsFormsApplicationBase.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\izzat\\AppData\\Local\\Temp\\.vsdbgsrc\\b9f2c8f929544febecb3f88166e8b9cfe15492811552899fb7644e008a61c53a\\WindowsFormsApplicationBase.cs [Read Only]",
+              "ViewState": "AgIAAFwCAAAAAAAAAAAiwG8CAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T13:20:36.731Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FitMakerShop.vb [Design]",
+              "DocumentMoniker": "C:\\laragon\\www\\FitMaker\\FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP\\FitMakerShop.vb",
+              "RelativeDocumentMoniker": "FITMAKERLOGIN_SIGNUP\\FitMakerShop.vb",
+              "ToolTip": "C:\\laragon\\www\\FitMaker\\FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP\\FitMakerShop.vb [Design]",
+              "RelativeToolTip": "FITMAKERLOGIN_SIGNUP\\FitMakerShop.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-16T13:20:21.447Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.vb [Design]",
+              "DocumentMoniker": "C:\\laragon\\www\\FitMaker\\FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP\\MainForm.vb",
+              "RelativeDocumentMoniker": "FITMAKERLOGIN_SIGNUP\\MainForm.vb",
+              "ToolTip": "C:\\laragon\\www\\FitMaker\\FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP\\MainForm.vb [Design]",
+              "RelativeToolTip": "FITMAKERLOGIN_SIGNUP\\MainForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-16T13:20:17.396Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginUTP.vb",
+              "DocumentMoniker": "C:\\laragon\\www\\FitMaker\\FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP\\LoginUTP.vb",
+              "RelativeDocumentMoniker": "FITMAKERLOGIN_SIGNUP\\LoginUTP.vb",
+              "ToolTip": "C:\\laragon\\www\\FitMaker\\FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP\\LoginUTP.vb",
+              "RelativeToolTip": "FITMAKERLOGIN_SIGNUP\\LoginUTP.vb",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-08T08:41:32.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StartupPage.vb [Design]",
+              "DocumentMoniker": "C:\\laragon\\www\\FitMaker\\FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP\\StartupPage.vb",
+              "RelativeDocumentMoniker": "FITMAKERLOGIN_SIGNUP\\StartupPage.vb",
+              "ToolTip": "C:\\Users\\Tham Qi Lien\\source\\repos\\FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP\\StartupPage.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\Tham Qi Lien\\source\\repos\\FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP\\StartupPage.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-03T07:57:41.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SignUpPublicNew.vb [Design]",
+              "DocumentMoniker": "C:\\laragon\\www\\FitMaker\\FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP\\SignUpPublicNew.vb",
+              "RelativeDocumentMoniker": "FITMAKERLOGIN_SIGNUP\\SignUpPublicNew.vb",
+              "ToolTip": "C:\\Users\\Tham Qi Lien\\source\\repos\\FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP\\SignUpPublicNew.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\Tham Qi Lien\\source\\repos\\FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP\\SignUpPublicNew.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-04T15:17:11.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SignUpUTP.vb [Design]",
+              "DocumentMoniker": "C:\\laragon\\www\\FitMaker\\FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP\\SignUpUTP.vb",
+              "RelativeDocumentMoniker": "FITMAKERLOGIN_SIGNUP\\SignUpUTP.vb",
+              "ToolTip": "C:\\Users\\Tham Qi Lien\\source\\repos\\FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP\\SignUpUTP.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\Tham Qi Lien\\source\\repos\\FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP\\SignUpUTP.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-04T13:20:31.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginPublic.vb [Design]",
+              "DocumentMoniker": "C:\\laragon\\www\\FitMaker\\FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP\\LoginPublic.vb",
+              "RelativeDocumentMoniker": "FITMAKERLOGIN_SIGNUP\\LoginPublic.vb",
+              "ToolTip": "C:\\laragon\\www\\FitMaker\\FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP\\LoginPublic.vb [Design]",
+              "RelativeToolTip": "FITMAKERLOGIN_SIGNUP\\LoginPublic.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-03T07:57:23.043Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Wardrobe.vb [Design]",
+              "DocumentMoniker": "C:\\laragon\\www\\FitMaker\\FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP\\Wardrobe.vb",
+              "RelativeDocumentMoniker": "FITMAKERLOGIN_SIGNUP\\Wardrobe.vb",
+              "ToolTip": "C:\\laragon\\www\\FitMaker\\FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP\\Wardrobe.vb [Design]",
+              "RelativeToolTip": "FITMAKERLOGIN_SIGNUP\\Wardrobe.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-16T13:20:24.275Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TNGeWaller.vb [Design]",
+              "DocumentMoniker": "C:\\laragon\\www\\FitMaker\\FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP\\TNGeWaller.vb",
+              "RelativeDocumentMoniker": "FITMAKERLOGIN_SIGNUP\\TNGeWaller.vb",
+              "ToolTip": "C:\\Users\\muaza\\source\\repos\\FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP\\TNGeWaller.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\muaza\\source\\repos\\FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP\\TNGeWaller.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-04T00:03:48.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResetPasswordEmail.vb [Design]",
+              "DocumentMoniker": "C:\\laragon\\www\\FitMaker\\FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP\\ResetPasswordEmail.vb",
+              "RelativeDocumentMoniker": "FITMAKERLOGIN_SIGNUP\\ResetPasswordEmail.vb",
+              "ToolTip": "C:\\Users\\Tham Qi Lien\\source\\repos\\FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP\\ResetPasswordEmail.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\Tham Qi Lien\\source\\repos\\FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP\\ResetPasswordEmail.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-03T08:05:21.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PaymentOption.vb [Design]",
+              "DocumentMoniker": "C:\\laragon\\www\\FitMaker\\FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP\\PaymentOption.vb",
+              "RelativeDocumentMoniker": "FITMAKERLOGIN_SIGNUP\\PaymentOption.vb",
+              "ToolTip": "C:\\Users\\Tham Qi Lien\\source\\repos\\FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP\\PaymentOption.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\Tham Qi Lien\\source\\repos\\FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP\\PaymentOption.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-03T08:05:19.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NewPassword.vb [Design]",
+              "DocumentMoniker": "C:\\laragon\\www\\FitMaker\\FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP\\NewPassword.vb",
+              "RelativeDocumentMoniker": "FITMAKERLOGIN_SIGNUP\\NewPassword.vb",
+              "ToolTip": "C:\\Users\\Tham Qi Lien\\source\\repos\\FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP\\NewPassword.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\Tham Qi Lien\\source\\repos\\FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP\\NewPassword.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-03T07:57:21.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreditDebitCard.vb [Design]",
+              "DocumentMoniker": "C:\\laragon\\www\\FitMaker\\FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP\\CreditDebitCard.vb",
+              "RelativeDocumentMoniker": "FITMAKERLOGIN_SIGNUP\\CreditDebitCard.vb",
+              "ToolTip": "C:\\Users\\muaza\\source\\repos\\FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP\\CreditDebitCard.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\muaza\\source\\repos\\FITMAKERLOGIN_SIGNUP\\FITMAKERLOGIN_SIGNUP\\CreditDebitCard.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-02T13:40:40.585Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

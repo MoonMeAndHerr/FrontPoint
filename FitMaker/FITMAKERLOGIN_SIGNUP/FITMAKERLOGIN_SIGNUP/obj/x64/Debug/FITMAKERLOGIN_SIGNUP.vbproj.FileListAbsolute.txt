@@ -1,0 +1,132 @@
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\FITMAKERLOGIN_SIGNUP.exe.config
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\FITMAKERLOGIN_SIGNUP.exe
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\FITMAKERLOGIN_SIGNUP.pdb
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\FITMAKERLOGIN_SIGNUP.xml
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\System.Data.OleDb.dll
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\System.Data.OleDb.xml
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.vbproj.AssemblyReference.cache
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.CreditDebitCard.resources
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.LoginUTP.resources
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.LoginPublic.resources
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.Resources.resources
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.NewPassword.resources
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.PaymentOption.resources
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.ResetPasswordEmail.resources
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.SignUpUTP.resources
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.StartupPage.resources
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.TNGeWallet.resources
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.vbproj.GenerateResource.cache
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.vbproj.CoreCompileInputs.cache
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKER.B48BE552.Up2Date
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.exe
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.xml
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.pdb
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.exe.config
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.SignUpPublicNew.resources
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.Bookmark.resources
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.MainForm.resources
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.OutfitPairing.resources
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.Profile.resources
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.Wardrobe.resources
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\Dresses\Casual Dress.jpg
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\Dresses\Cocktail Dress.jpg
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\Dresses\Formal Dress.jpg
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\Dresses\Pleated Dress.jpg
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\Hijab\Bawal Hijab.jpg
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\Hijab\Shawl Hijab.jpg
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\Hijab\Slip-On Hijab.jpg
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\Long Pants\Cargo Pants.jpeg
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\Long Pants\Formal Pants.jpeg
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\Long Pants\Jeans.jpeg
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\Long Pants\Joggers.jpeg
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\Long Pants\Sweat Pants.jpeg
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\Shorts\Board Shorts.jpeg
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\Shorts\Cargo Shorts.jpeg
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\Shorts\Denim shorts.jpeg
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\Shorts\Running Shorts.jpeg
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\Shorts\Sweat Shorts.jpeg
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\Skirt\A-Line Skirt.jpg
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\Skirt\Maxi Skirt.jpg
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\Skirt\Mini Skirt.jpg
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\Skirt\Pencil Skirt.jpg
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\TopWear\Button Shirt.jpeg
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\TopWear\Hoodie.jpeg
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\TopWear\Jersey.jpeg
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\TopWear\Long Sleeve Shirt.jpeg
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\TopWear\Oversize Shirt.jpeg
+C:\Users\Tham Qi Lien\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\TopWear\Round Neck Shirt.jpeg
+C:\Users\muaza\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.vbproj.AssemblyReference.cache
+C:\Users\muaza\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.exe
+C:\Users\muaza\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.xml
+C:\Users\muaza\source\repos\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.pdb
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\Resources\oversizedt.png
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\Resources\polo1.png
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\Resources\qwd.png
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\Resources\qwd1.png
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\Resources\t2.png
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\Resources\t21.png
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\Resources\t3.png
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\Resources\t31.png
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\Resources\tshirt1.png
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\Resources\windbreaker.png
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\Resources\windbreaker1.png
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\Resources\woment.png
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\Resources\woment1.png
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\Dresses\Casual Dress.jpg
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\Dresses\Cocktail Dress.jpg
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\Dresses\Formal Dress.jpg
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\Dresses\Pleated Dress.jpg
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\Hijab\Bawal Hijab.jpg
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\Hijab\Shawl Hijab.jpg
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\Hijab\Slip-On Hijab.jpg
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\Long Pants\Cargo Pants.jpeg
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\Long Pants\Formal Pants.jpeg
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\Long Pants\Jeans.jpeg
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\Long Pants\Joggers.jpeg
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\Long Pants\Sweat Pants.jpeg
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\Shorts\Board Shorts.jpeg
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\Shorts\Cargo Shorts.jpeg
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\Shorts\Denim shorts.jpeg
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\Shorts\Running Shorts.jpeg
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\Shorts\Sweat Shorts.jpeg
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\Skirt\A-Line Skirt.jpg
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\Skirt\Maxi Skirt.jpg
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\Skirt\Mini Skirt.jpg
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\Skirt\Pencil Skirt.jpg
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\TopWear\Button Shirt.jpeg
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\TopWear\Hoodie.jpeg
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\TopWear\Jersey.jpeg
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\TopWear\Long Sleeve Shirt.jpeg
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\TopWear\Oversize Shirt.jpeg
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\image for outfits\TopWear\Round Neck Shirt.jpeg
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\FITMAKERLOGIN_SIGNUP.exe.config
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\FITMAKERLOGIN_SIGNUP.exe
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\FITMAKERLOGIN_SIGNUP.pdb
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\FITMAKERLOGIN_SIGNUP.xml
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\System.Data.OleDb.dll
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\bin\x64\Debug\System.Data.OleDb.xml
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.vbproj.AssemblyReference.cache
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.exe.config
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.Bookmark.resources
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.CreditDebitCard.resources
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.Form1.resources
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.LoginUTP.resources
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.LoginPublic.resources
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.MainForm.resources
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.Resources.resources
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.NewPassword.resources
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.OutfitPairing.resources
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.PaymentOption.resources
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.Profile.resources
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.ResetPasswordEmail.resources
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.SignUpPublicNew.resources
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.SignUpUTP.resources
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.StartupPage.resources
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.TNGeWallet.resources
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.Wardrobe.resources
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.vbproj.GenerateResource.cache
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.vbproj.CoreCompileInputs.cache
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKER.B48BE552.Up2Date
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.exe
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.xml
+C:\laragon\www\FitMaker\FITMAKERLOGIN_SIGNUP\FITMAKERLOGIN_SIGNUP\obj\x64\Debug\FITMAKERLOGIN_SIGNUP.pdb
