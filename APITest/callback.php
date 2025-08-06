@@ -2,13 +2,12 @@
 require 'vendor/autoload.php';
 
 use League\OAuth2\Client\Provider\GenericProvider;
-use GuzzleHttp\Client;
 
 session_start();
 
 $provider = new GenericProvider([
-    'clientId'                => '592BE780EB644ECBB44DA2507798EF3F',
-    'clientSecret'            => 'oQEnvI18Y-LUBX2zXmi-Q_5lfzDet0Efiw5mKiBEcudHy2MN',
+    'clientId'                => '401AA121B0D7485193B11FA9CCA0546B',
+    'clientSecret'            => 'Frpko_qPMO1nY2kMbHsnW5dqLssheS_oeNFrxvxh6k7vIpTu',
     'redirectUri'             => 'http://localhost/APITest/callback.php',
     'urlAuthorize'            => 'https://login.xero.com/identity/connect/authorize',
     'urlAccessToken'          => 'https://identity.xero.com/connect/token',
@@ -24,32 +23,29 @@ try {
         'code' => $_GET['code']
     ]);
 
-    // Save access tokens in session
     $_SESSION['access_token'] = $accessToken->getToken();
     $_SESSION['refresh_token'] = $accessToken->getRefreshToken();
     $_SESSION['expires'] = $accessToken->getExpires();
 
-    // GET TENANT ID using /connections endpoint
-    $client = new Client();
-    $response = $client->request('GET', 'https://api.xero.com/connections', [
+    // ✅ Get Tenant ID
+    $client = new \GuzzleHttp\Client();
+    $response = $client->get('https://api.xero.com/connections', [
         'headers' => [
             'Authorization' => 'Bearer ' . $_SESSION['access_token'],
-            'Accept'        => 'application/json'
+            'Accept'        => 'application/json',
         ]
     ]);
 
     $connections = json_decode($response->getBody(), true);
 
     if (!empty($connections)) {
-        $tenantId = $connections[0]['tenantId'];
-        $_SESSION['tenant_id'] = $tenantId;
-
-        echo "Connected to Xero!<br>";
-        echo "Tenant ID: " . $tenantId;
+        $_SESSION['tenant_id'] = $connections[0]['tenantId'];
+        echo "✅ Connected to Xero!<br>";
+        echo "Tenant ID: " . $_SESSION['tenant_id'] . "<br> ";
+        echo "Access Token: " . $_SESSION['access_token'];
     } else {
-        echo "No connections found.";
+        echo "❌ No active Xero tenant connection found.";
     }
-
 } catch (\Exception $e) {
     echo "Failed to get access token or tenant ID: " . $e->getMessage();
 }

@@ -38,38 +38,39 @@ try {
 // === SAVE TO XERO ===
 try {
     $client = new Client();
-
-    $xeroResponse = $client->post('https://api.xero.com/api.xro/2.0/Contacts', [
+    $response = $client->post('https://api.xero.com/api.xro/2.0/Contacts', [
         'headers' => [
-            'Authorization' => 'Bearer ' . $access_token,
-            'Xero-tenant-id' => $tenant_id,
-            'Accept' => 'application/json',
-            'Content-Type' => 'application/json'
+            'Authorization'   => 'Bearer ' . $_SESSION['access_token'],
+            'Accept'          => 'application/json',
+            'Content-Type'    => 'application/json',
+            'Xero-tenant-id'  => $_SESSION['tenant_id'],
         ],
-        'json' => [[
-            'Name' => $name,
-            'Addresses' => [[
-                'AddressType' => 'STREET',
-                'AddressLine1' => $address
-            ]],
-            'Phones' => [[
-                'PhoneType' => 'MOBILE',
-                'PhoneNumber' => $phone
-            ]],
-            'ContactPersons' => [[
-                'FirstName' => $name,
-                'EmailAddress' => '',
-                'IncludeInEmails' => false
-            ]],
-            'CompanyNumber' => $company,
-            'ContactStatus' => 'ACTIVE'
-        ]]
+        'json' => [
+            'Name'       => $name,
+            'FirstName'  => $name,
+            'Phones' => [
+                [
+                    'PhoneType'    => 'MOBILE',
+                    'PhoneNumber'  => $phone
+                ]
+            ],
+            'Addresses' => [
+                [
+                    'AddressType'   => 'STREET',
+                    'AddressLine1'  => $address,
+                    'City'          => 'Kuala Lumpur',
+                    'Region'        => 'WP',
+                    'PostalCode'    => '50000',
+                    'Country'       => 'Malaysia'
+                ]
+            ]
+            // No EmailAddress or ContactPersons
+        ]
     ]);
 
-    $result = json_decode($xeroResponse->getBody(), true);
-    echo "Customer saved to database and Xero.<br>";
-    echo "Xero ContactID: " . $result['Contacts'][0]['ContactID'];
-
-} catch (Exception $e) {
-    exit("Xero Error: " . $e->getMessage());
+    echo "✅ Contact created: " . $response->getBody();
+} catch (\GuzzleHttp\Exception\ClientException $e) {
+    $responseBody = $e->getResponse()->getBody()->getContents();
+    echo "❌ Xero Error: " . $responseBody;
 }
+

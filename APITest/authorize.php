@@ -7,8 +7,8 @@ use League\OAuth2\Client\Provider\GenericProvider;
 session_start();
 
 $provider = new GenericProvider([
-    'clientId'                => '592BE780EB644ECBB44DA2507798EF3F',
-    'clientSecret'            => 'oQEnvI18Y-LUBX2zXmi-Q_5lfzDet0Efiw5mKiBEcudHy2MN',
+    'clientId'                => '401AA121B0D7485193B11FA9CCA0546B',
+    'clientSecret'            => 'Frpko_qPMO1nY2kMbHsnW5dqLssheS_oeNFrxvxh6k7vIpTu',
     'redirectUri'             => 'http://localhost/APITest/callback.php',
     'urlAuthorize'            => 'https://login.xero.com/identity/connect/authorize',
     'urlAccessToken'          => 'https://identity.xero.com/connect/token',
@@ -16,7 +16,7 @@ $provider = new GenericProvider([
 ]);
 
 $authorizationUrl = $provider->getAuthorizationUrl([
-    'scope' => 'openid profile email accounting.transactions accounting.settings'
+    'scope' => 'openid profile email accounting.transactions accounting.contacts accounting.settings'
 ]);
 
 $_SESSION['oauth2state'] = $provider->getState();

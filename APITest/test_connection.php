@@ -8,7 +8,7 @@ session_start();
 $access_token = $_SESSION['access_token'] ?? '';
 
 // Replace with your actual tenant ID — get it from API below
-$tenant_id = 'YOUR_XERO_TENANT_ID';
+$tenant_id = '26d074dc-81b8-4796-9709-6a79846b9532';
 
 if (!$access_token || !$tenant_id) {
     exit('Token or tenant ID missing.');
